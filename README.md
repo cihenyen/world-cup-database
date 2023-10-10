@@ -18,12 +18,12 @@ Created a Bash script that reads the games.csv data and uses SQL query commands 
 
 Took constraints into consideration when creating the Bash script to insert all winner and opponent teams individually into 'teams' and then into 'games' based on the team_id created.
 
-View: <a insert_data.sh
+View:  insertdata.sh
   </a>
   
 Finished by writing a Bash script that utilises SQL to query the database and obtain useful values.
 
-View: <a queries.sh
+View:  queries.sh
   </a>
 
-Database dump (after inserting data): <a  worldcup.sql </a>
+Database dump (after inserting data):   worldcup.sql </a>
