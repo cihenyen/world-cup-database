@@ -9,7 +9,7 @@ Project made as part of the <b> FreeCodeCamp Relational Databases Beta Certifica
 
 ## Creating the database
 
-Dataset:  <a href="https://github.com/cihenyen/world-cup-database/main/games.csv"> games.csv </a>
+Dataset:  <a games.csv </a>
 
 Created the database, 'worldcup', and the appropriate tables ('teams' and 'games') on PostgreSQL to visualise the data from games.csv.
 
@@ -18,12 +18,12 @@ Created a Bash script that reads the games.csv data and uses SQL query commands 
 
 Took constraints into consideration when creating the Bash script to insert all winner and opponent teams individually into 'teams' and then into 'games' based on the team_id created.
 
-View: <a href="https://github.com/CheilaDaSilva/world-cup-database-project/blob/main/insert_data.sh"> insert_data.sh
+View: <a insert_data.sh
   </a>
   
 Finished by writing a Bash script that utilises SQL to query the database and obtain useful values.
 
-View: <a href="https://github.com/CheilaDaSilva/world-cup-database-project/blob/main/queries.sh"> queries.sh
+View: <a queries.sh
   </a>
 
-Database dump (after inserting data): <a href="https://github.com/CheilaDaSilva/world-cup-database-project/blob/main/worldcup.sql"> worldcup.sql </a>
+Database dump (after inserting data): <a  worldcup.sql </a>
