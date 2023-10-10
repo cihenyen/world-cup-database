@@ -9,7 +9,7 @@ Project made as part of the <b> FreeCodeCamp Relational Databases Beta Certifica
 
 ## Creating the database
 
-Dataset:  <a games.csv </a>
+Dataset:  gamestoadd.csv </a>
 
 Created the database, 'worldcup', and the appropriate tables ('teams' and 'games') on PostgreSQL to visualise the data from games.csv.
 
